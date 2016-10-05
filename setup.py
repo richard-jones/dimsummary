@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name = 'YOURAPP',
+    name = 'dimsummary',
     version = '1.0.0',
     packages = find_packages(),
     install_requires = [
@@ -9,10 +9,10 @@ setup(
         "esprit",
         "Flask"
     ],
-    url = 'http://cottagelabs.com/',
-    author = 'Cottage Labs',
-    author_email = 'us@cottagelabs.com',
-    description = 'DESCRIBE YOUR APP',
+    url = 'http://dimsummary.com/',
+    author = 'Dim Summary',
+    author_email = 'dimsummary@oneoverzero.com',
+    description = 'Dim Summary Ratings App',
     classifiers = [
         'Development Status :: 3 - Alpha',
         'Environment :: Console',
